@@ -1,0 +1,7 @@
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class3\exercise\vezba1\bin\Debug\vezba1.exe.config
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class3\exercise\vezba1\bin\Debug\vezba1.exe
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class3\exercise\vezba1\bin\Debug\vezba1.pdb
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class3\exercise\vezba1\obj\Debug\vezba1.csprojAssemblyReference.cache
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class3\exercise\vezba1\obj\Debug\vezba1.csproj.CoreCompileInputs.cache
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class3\exercise\vezba1\obj\Debug\vezba1.exe
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class3\exercise\vezba1\obj\Debug\vezba1.pdb
