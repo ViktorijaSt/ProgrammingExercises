@@ -1,0 +1,7 @@
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class5\exerciseObjects\exerciseObjects\bin\Debug\exerciseObjects.exe.config
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class5\exerciseObjects\exerciseObjects\bin\Debug\exerciseObjects.exe
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class5\exerciseObjects\exerciseObjects\bin\Debug\exerciseObjects.pdb
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class5\exerciseObjects\exerciseObjects\obj\Debug\exerciseObjects.csprojAssemblyReference.cache
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class5\exerciseObjects\exerciseObjects\obj\Debug\exerciseObjects.csproj.CoreCompileInputs.cache
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class5\exerciseObjects\exerciseObjects\obj\Debug\exerciseObjects.exe
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class5\exerciseObjects\exerciseObjects\obj\Debug\exerciseObjects.pdb
