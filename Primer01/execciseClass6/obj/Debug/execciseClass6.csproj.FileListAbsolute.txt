@@ -1,0 +1,7 @@
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class6\Primer01\execciseClass6\bin\Debug\execciseClass6.exe.config
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class6\Primer01\execciseClass6\bin\Debug\execciseClass6.exe
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class6\Primer01\execciseClass6\bin\Debug\execciseClass6.pdb
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class6\Primer01\execciseClass6\obj\Debug\execciseClass6.csprojAssemblyReference.cache
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class6\Primer01\execciseClass6\obj\Debug\execciseClass6.csproj.CoreCompileInputs.cache
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class6\Primer01\execciseClass6\obj\Debug\execciseClass6.exe
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class6\Primer01\execciseClass6\obj\Debug\execciseClass6.pdb
