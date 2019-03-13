@@ -1,0 +1,7 @@
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class6\exerciseClass06\exerciseClass06\bin\Debug\exerciseClass06.exe.config
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class6\exerciseClass06\exerciseClass06\bin\Debug\exerciseClass06.exe
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class6\exerciseClass06\exerciseClass06\bin\Debug\exerciseClass06.pdb
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class6\exerciseClass06\exerciseClass06\obj\Debug\exerciseClass06.csprojAssemblyReference.cache
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class6\exerciseClass06\exerciseClass06\obj\Debug\exerciseClass06.csproj.CoreCompileInputs.cache
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class6\exerciseClass06\exerciseClass06\obj\Debug\exerciseClass06.exe
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class6\exerciseClass06\exerciseClass06\obj\Debug\exerciseClass06.pdb
